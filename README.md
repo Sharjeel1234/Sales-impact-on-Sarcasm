@@ -25,3 +25,9 @@ refined-1-1.5star.csv   -  188 reviews
 refined-2-2.5star.csv   -  88 reviews
 refined-3-3.5star.csv   -  157 reviews
 refined-4-5star.csv   -    1030 reviews
+
+
+
+Go to site https://deepmoji.mit.edu/ and take all reviews from 4 star , 3 star and check confidance score more than medium or equal because
+these are sarcastic reviews. the validated reviews pass to keras model for prediction with other impact of sales. the sarcastic has 
+worse impact which is initial finding of the project.
