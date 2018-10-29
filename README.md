@@ -27,7 +27,8 @@ refined-3-3.5star.csv   -  157 reviews
 refined-4-5star.csv   -    1030 reviews
 
 
+The reviews which have negative sentiment score and further manually validated and filtered from the site https://deepmoji.mit.edu/.
+Take all reviews from 4 star , 3 star and check confidance score more than medium or equal after selecting only negative reviews because
+these have more potential to sarcasm. The validated reviews pass to keras model for prediction with all impact factors of sales. The sarcastic reviews have worse impact which is our initial finding of the project.
 
-Go to site https://deepmoji.mit.edu/ and take all reviews from 4 star , 3 star and check confidance score more than medium or equal because
-these are sarcastic reviews. the validated reviews pass to keras model for prediction with other impact of sales. the sarcastic has 
-worse impact which is initial finding of the project.
+Further, Irony and its types will be tested with SemEval2018-Task3 review features traning. Stay tune shortly!
