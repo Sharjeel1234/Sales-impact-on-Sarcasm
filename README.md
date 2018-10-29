@@ -1,3 +1,5 @@
+Note: Script File for exploratory analysis including sentiments,lognormalization,readibility analysis and potential candidate of sarcasm is on quality control will upload on satureday 3-11-2018
+
 Selected Home and Furniture Category from Amazon and 
 then filter out 4 star and up initially to search all products in this category.
 
