@@ -16,3 +16,9 @@ actual2star table
 actual3star table
 actual4star table
 
+https://deepmoji.mit.edu/
+
+Go to site and take all reviews from 4 star , 3 star and check confidance score more than medium or equal because
+these are sarcastic reviews. the validated reviews pass to keras model for prediction with other impact of sales. the sarcastic has 
+worse impact which is initial finding of the project.
+
